@@ -42,4 +42,13 @@ Run the backend server : Start the Python server to handle the image processing 
 
 Open the web page : Simply open the index.html file in your web browser.
 
+Check out the Application
+
+Skin Cancer Detector: https://atharvsinhaa.github.io/skin-cancer-detector/
+
+About the Project: https://atharvsinhaa.github.io/skin-cancer-detector/faq.html
+
+You can find the Kaggle Notebook used to train the model here: Kaggle Notebook
+
+
 I'm excited to share this project and hope you find it interesting. Feel free to explore the code, and if you have any questions or suggestions, please don't hesitate to reach out!
