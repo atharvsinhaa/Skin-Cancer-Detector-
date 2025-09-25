@@ -44,9 +44,9 @@ Open the web page : Simply open the index.html file in your web browser.
 
 Check out the Application
 
-Skin Cancer Detector: https://atharvsinhaa.github.io/skin-cancer-detector/
+Skin Cancer Detector: https://indrapaul824.github.io/skin-cancer-detector/
 
-About the Project: https://atharvsinhaa.github.io/skin-cancer-detector/faq.html
+About the Project: https://indrapaul824.github.io/skin-cancer-detector/faq.html
 
 You can find the Kaggle Notebook used to train the model here: Kaggle Notebook
 
